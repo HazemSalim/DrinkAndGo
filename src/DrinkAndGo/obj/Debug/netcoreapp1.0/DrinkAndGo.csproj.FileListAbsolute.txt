@@ -1,0 +1,11 @@
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.deps.json
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.json
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.dev.json
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.dll
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.pdb
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfoInputs.cache
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfo.cs
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.dll
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.pdb
+D:\Learning\ASP.Core\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csprojAssemblyReference.cache
